@@ -1,16 +1,12 @@
-<br>
-<br>
-<br>
-<br>
 
 
-## Microservices and Cloud Native Applications.
+# Microservices and Cloud Native Applications.
 
 __NOTES:__
 1. This is the fall 2019 material.
 2. I am reorganizing the repository and content to clean up the material, lectures, example, etc.
 
-### Overview
+## Overview
 
 This course covers core, fundamental concepts in developing modern, cloud native application development.
 The core topics include:
@@ -58,7 +54,7 @@ Students may optionally choose to use additional or different enablement technol
 The final grade is based on the review of the project.
 There will be interim reviews with the professor and with the class.
 
-### Project Overview
+## Project Overview
 
 Simplistically, there are three parts to an application:
 1. User interface.
@@ -110,11 +106,11 @@ define a fantasy league, assign players to teams, etc. The database is a newly d
     - Uses S3, CloudFront, Cloud Search, Route 53, etc.
 - _User Interface:_ Browser application using AngularJS.
 
-### Lecture Material
+## Lecture Material
 
 Being cleaned up and simplified. Come back, hopefully, soon.
 
 
-### Examples
+## Examples
 
 Being cleaned up and simplified. Come back, hopefully, soon.
